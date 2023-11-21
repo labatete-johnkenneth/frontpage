@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://w.wallhaven.cc/full/9d/wallhaven-9dkeqd.png");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.opacity {
+  opacity: 50%;
+}
+
+tr:hover, img:hover{
+  opacity: 100%;
+}
+
+img {
+  opacity: 0;
+}
